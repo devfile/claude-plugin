@@ -1,0 +1,7 @@
+{
+  "name": "devfile",
+  "description": "Skills for creating, modifying, and reviewing devfile YAML files (devfile.io v2.3.0)",
+  "author": {
+    "name": "devfile.io"
+  }
+}
